@@ -53,13 +53,13 @@ cd sentiment-classifier
 pip install -r requirements.txt
 ```
 
-###3. Start the FastAPI backend:
+### 3. Start the FastAPI backend:
 
 ```bash
 uvicorn main:app --reload
 ```
 
-###4. Start the Streamlit frontend:
+### 4. Start the Streamlit frontend:
 
 ```bash
 streamlit run app.py
