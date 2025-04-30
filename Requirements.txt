@@ -1,0 +1,24 @@
+# Web Frameworks
+fastapi
+uvicorn
+
+# Frontend
+streamlit
+
+# Database
+pymongo
+
+# ML/NLP
+torch
+transformers
+
+# Data Handling & Visualization
+pandas
+plotly
+numpy
+
+# Utility
+python-dotenv
+
+#Code
+pip install fastapi uvicorn streamlit pymongo torch transformers pandas plotly numpy python-dotenv
